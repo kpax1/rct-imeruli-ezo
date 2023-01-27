@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'geo_calligraphy';
+    src: url(../fonts//geo_calligraphy.ttf);
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(79, 170, 79);
+    color: rgba(235, 235, 222, 0.895);
+}
+
+.head p{
+    margin-right: 10px;
+}
+
+
+h1{
+    font-family: 'geo_calligraphy';
+    color:rgb(255, 255, 255);
+    font-size: 1.5em;
+    margin-left: 0.5em;
+}
+
+.ezo{
+    color:#fbb23cfb;
+}
+
+.menu{
+    width: 2em;
+    height: 2em;
+    margin-right:1rem;
+    margin-top: 1rem;
+}
+
+input{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 60%;
+}

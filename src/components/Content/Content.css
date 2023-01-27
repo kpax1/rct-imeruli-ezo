@@ -1,0 +1,75 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:#10b519a9;
+
+}
+
+
+.item{
+    background-color: #fffffffd;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    color: black;
+
+}
+
+.item img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item button{
+    background-color: rgb(33, 67, 33);
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+
+button:hover{
+    background-color: black;
+    cursor: pointer;
+}
+
+.custom-shape-divider-top-1674766782 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1674766782 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 15px;
+}
+
+.custom-shape-divider-top-1674766782 .shape-fill {
+    fill: #ebebde;
+}
+
+/** For tablet devices **/
+@media (min-width: 768px) and (max-width: 1023px) {
+    .custom-shape-divider-top-1674766782 svg {
+        width: calc(100% + 1.3px);
+        height: 8px;
+    }
+}
+
+
