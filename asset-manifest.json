@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rct-imeruli-ezo/static/css/main.96b451f2.css",
+    "main.js": "/rct-imeruli-ezo/static/js/main.c34a142c.js",
+    "static/media/slider.jpg": "/rct-imeruli-ezo/static/media/slider.80eb1baf9fdf541604d4.jpg",
+    "static/media/menuimg.png": "/rct-imeruli-ezo/static/media/menuimg.745580e91f9a46765063.png",
+    "static/media/geo_calligraphy.ttf": "/rct-imeruli-ezo/static/media/geo_calligraphy.4b2b046a5a2d4aa94a48.ttf",
+    "index.html": "/rct-imeruli-ezo/index.html",
+    "main.96b451f2.css.map": "/rct-imeruli-ezo/static/css/main.96b451f2.css.map",
+    "main.c34a142c.js.map": "/rct-imeruli-ezo/static/js/main.c34a142c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b451f2.css",
+    "static/js/main.c34a142c.js"
+  ]
+}
